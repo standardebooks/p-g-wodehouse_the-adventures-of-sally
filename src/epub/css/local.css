@@ -5,7 +5,8 @@
 	font-variant: all-small-caps;
 }
 
-#chapter-7 > blockquote{
+#chapter-7 > blockquote,
+#chapter-18 > blockquote{
 	font-variant-caps: all-small-caps;
 }
 
