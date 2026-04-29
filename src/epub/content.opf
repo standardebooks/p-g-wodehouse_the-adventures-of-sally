@@ -47,7 +47,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7464</dc:source>
-		<dc:source>https://archive.org/details/bwb_KP-509-748/</dc:source>
+		<dc:source>https://archive.org/details/bwb_KP-509-748</dc:source>
 		<meta property="se:word-count">79511</meta>
 		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Adventures_of_Sally</meta>
@@ -72,6 +72,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Katarina Geckle Tallmon</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Geckle Tallmon, Katarina</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/katie-geckle-tallmon/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
