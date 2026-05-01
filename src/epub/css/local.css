@@ -9,11 +9,10 @@
 }
 
 #chapter-7 blockquote b{
-	font-variant: all-small-caps;
 	font-size: larger;
+	font-variant: all-small-caps;
 }
 /* End blockquotes */
-
 
 /* Begin letters */
 time{
@@ -23,7 +22,6 @@ time{
 .telegram{
 	font-variant: all-small-caps;
 }
-
 
 [epub|type~="z3998:letter"] header{
 	text-align: right;
