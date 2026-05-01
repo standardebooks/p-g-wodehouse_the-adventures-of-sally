@@ -60,6 +60,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Philip de László</dc:contributor>
 		<meta property="file-as" refines="#artist">de László, Philip</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Philip Alexius László de Lombos</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Philip_de_L%C3%A1szl%C3%B3</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2004037532</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
