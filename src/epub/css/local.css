@@ -1,22 +1,29 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Begin blockquotes */
+#chapter-7 blockquote,
+#chapter-18 blockquote{
+	font-variant: all-small-caps;
+	text-align: center;
+}
+
+#chapter-7 blockquote b{
+	font-variant: all-small-caps;
+	font-size: larger;
+}
+/* End blockquotes */
+
+
+/* Begin letters */
+time{
+	font-style: italic;
+}
+
 .telegram{
 	font-variant: all-small-caps;
 }
 
-#chapter-7 > blockquote,
-#chapter-18 > blockquote{
-	font-variant-caps: all-small-caps;
-}
-
-#chapter-7 > blockquote > p > b{
-	font-size: larger;
-}
-
-time{
-	font-style: italic;
-}
 
 [epub|type~="z3998:letter"] header{
 	text-align: right;
@@ -42,3 +49,4 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+/* End letters */
