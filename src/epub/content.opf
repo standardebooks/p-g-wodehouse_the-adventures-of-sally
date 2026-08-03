@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/p-g-wodehouse/the-adventures-of-sally</dc:identifier>
 		<dc:date>2026-05-03T23:46:53Z</dc:date>
@@ -41,11 +41,11 @@
 		<meta property="term" refines="#subject-3">sh2008104235</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young woman comes into an inheritance, loses it all, and finds love along the way.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman comes into an inheritance, loses it all, and finds love along the way.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;New Yorker Sally Nicholas turns twenty one, comes into an inheritance, and bids her boardinghouse and ballroom dance life goodbye. She funds her fiancé’s new Broadway play when it loses its original backer, and takes a vacation to France where she has a chance encounter with a man named Ginger Kemp. Both her and Ginger’s family force her to navigate many unexpected challenges and new adventures, all while trying to maintain her financial independence.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Wodehouse&lt;/a&gt; wrote and collaborated on numerous Broadway shows during and after World War I. This novel reflects his both Broadway experiences and English origins, combining them with his signature wit and humor into a feel-good love story that spans continents.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7464</dc:source>
 		<dc:source>https://archive.org/details/bwb_KP-509-748</dc:source>
