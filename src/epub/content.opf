@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">sh2008104235</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young woman comes into an inheritance, loses it all, and finds love along the way.</dc:abstract>
+		<meta property="schema:abstract">A young woman comes into an inheritance, loses it all, and finds love along the way.</meta>
 		<dc:description>
 			&lt;p&gt;New Yorker Sally Nicholas turns twenty one, comes into an inheritance, and bids her boardinghouse and ballroom dance life goodbye. She funds her fiancé’s new Broadway play when it loses its original backer, and takes a vacation to France where she has a chance encounter with a man named Ginger Kemp. Both her and Ginger’s family force her to navigate many unexpected challenges and new adventures, all while trying to maintain her financial independence.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Wodehouse&lt;/a&gt; wrote and collaborated on numerous Broadway shows during and after World War I. This novel reflects his both Broadway experiences and English origins, combining them with his signature wit and humor into a feel-good love story that spans continents.&lt;/p&gt;
